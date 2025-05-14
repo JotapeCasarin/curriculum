@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+  body {
+    background-color: #a9fcd5;
+    font-family: Kanit;
+  }
+  h1 {
+    text-align: left;
+    font-size: 2.5em;
+    color: #01393d;
+  }
+  h2 {
+    text-align: left;
+    font-size: 1.25em;
+    color: #01393d;
+  }
+  a {
+    text-decoration: none;
+    color: #155756;
+  } 
+  hr {
+    border: 1px solid #b2d2a4;
+    width: 80%;
+  }
+  .skills li {
+  display: inline-block;
+  background-color: #258b58;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
